@@ -2,4 +2,4 @@ baseURL = 'https://localhost/'
 languageCode = 'zh-cn'
 title = 'af8a2a 的茶水间'
 theme = 'mini'
-# relativeURLs = true
+themesDir="themes"
