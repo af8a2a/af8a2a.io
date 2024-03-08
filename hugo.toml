@@ -1,4 +1,5 @@
-baseURL = 'https://af8a2a.io/'
+baseURL = 'https://af8a2a.github.io/af8a2a.io/'
 languageCode = 'zh-cn'
 title = 'af8a2a 的茶水间'
 theme = 'mini'
+# relativeURLs = true
